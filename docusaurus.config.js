@@ -5,13 +5,13 @@
 const config = {
   title: 'Mowgli Docs',
   tagline: 'Documentation pour Mowgli-OpenMower sur robots Yardforce 500,500B',
-  url: 'https://juditech3D.github.io',
-  baseUrl: '/',
+  url: 'https://mowglifrenchtouch.github.io',
+  baseUrl: '/mowgli-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'juditech3D', // GitHub org/user name
-  projectName: 'Mowgli-docs', // Nom du repo
+  organizationName: 'Mowglifrenchtouch', // GitHub org name
+  projectName: 'mowgli-docs', // GitHub repo name
 
   i18n: {
     defaultLocale: 'fr',
@@ -25,7 +25,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/juditech3D/Mowgli-docs/edit/main/',
+          editUrl: 'https://github.com/Mowglifrenchtouch/mowgli-docs/edit/main/',
         },
         blog: false,
         theme: {
@@ -48,7 +48,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/juditech3D/Mowgli-docs',
+          href: 'https://github.com/Mowglifrenchtouch/mowgli-docs',
           label: 'GitHub',
           position: 'right',
         },
