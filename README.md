@@ -4,7 +4,7 @@
 
 ---
 
-![Logo Mowgli](./static/img/favicon-mowgli-docs.png)
+![Logo Mowgli](./static/img/logo.svg)
 
 ## 🚀 Démarrer avec la documentation
 
