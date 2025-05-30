@@ -1,10 +1,9 @@
+
+![Logo Mowgli](./static/img/logo.svg)
+
 # 🧾 Mowgli Docs – Documentation
 
 > Documentation pour Mowgli-OpenMower sur robots Yardforce 500 et 500B.
-
----
-
-![Logo Mowgli](./static/img/logo.svg)
 
 ## 🚀 Démarrer avec la documentation
 
