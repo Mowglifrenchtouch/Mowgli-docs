@@ -47,4 +47,3 @@ Tu peux :
 
 ---
 
-📌 [Retour à la page d'accueil](/)
