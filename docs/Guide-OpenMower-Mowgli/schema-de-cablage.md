@@ -20,7 +20,15 @@ Ce schéma présente le câblage complet du robot basé sur le modèle Yardforce
 
 source d'origine : https://github.com/cedbossneo/mowgli-docker
 
+---
 
+## 🧩 Cablage IMU
+
+- Les couleurs des fils correspondent aux conventions couramment utilisées :
+
+
+
+---
 ---
 
 ## 🧩 Détails importants
