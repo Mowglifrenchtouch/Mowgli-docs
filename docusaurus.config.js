@@ -25,7 +25,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Mowglifrenchtouch/mowgli-docs/edit/main/',
+          editUrl: 'https://github.com/Mowglifrenchtouch/Mowgli-docs/edit/main/',
         },
         blog: false,
         theme: {
@@ -48,7 +48,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Mowglifrenchtouch/mowgli-docs',
+          href: 'https://github.com/Mowglifrenchtouch/Mowgli-docs',
           label: 'GitHub',
           position: 'right',
         },
