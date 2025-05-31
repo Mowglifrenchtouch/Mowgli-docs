@@ -6,7 +6,7 @@ const config = {
   title: 'Mowgli Docs',
   tagline: 'Documentation pour Mowgli-OpenMower sur robots Yardforce 500,500B',
   url: 'https://mowglifrenchtouch.github.io',
-  baseUrl: '/mowgli-docs/',
+  baseUrl: '/Mowgli-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
