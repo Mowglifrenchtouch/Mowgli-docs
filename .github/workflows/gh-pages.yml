@@ -33,7 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          # Ce dépôt est un sous-dossier donc on conserve baseUrl=/mowgli-docs/ côté config
-          destination_dir: .
-          user_name: github-actions
-          user_email: github-actions@github.com
+          publish_branch: gh-pages  # 👈 Ajout important
