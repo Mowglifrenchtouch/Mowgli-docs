@@ -3,7 +3,7 @@ title: "🧰 Matériel requis"
 nav_order: 2
 parent: "🏠 Guide OpenMower"
 layout: default
-permalink: /docs/Guide-OpenMower-Mowgli/schema-de-cablage/
+permalink: /docs/Guide-OpenMower-Mowgli/materiel-requis/
 ---
 
 # 🧰 Matériel requis
