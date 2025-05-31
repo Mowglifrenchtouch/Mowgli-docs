@@ -6,8 +6,9 @@ parent: "🏠 Guide OpenMower"
 layout: default
 ---
 <div style={{textAlign:"center"}}>
-  <img src="/img/injection_firmware_cover.jpg" alt="Illustration firmware" style={{maxWidth:"200px", margin:"1rem auto", borderRadius:"10px", boxShadow:"0 2px 6px rgba(0,0,0,0.2)"}} />
+  <img src="/img/injection_firmware_cover.png" alt="Illustration firmware" style={{maxWidth:"200px", margin:"1rem auto", borderRadius:"10px", boxShadow:"0 2px 6px rgba(0,0,0,0.2)"}} />
 </div>
+
 
 # 📀 Compilation et injection du Firmware Mowgli
 

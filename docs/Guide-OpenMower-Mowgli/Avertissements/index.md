@@ -2,11 +2,26 @@
 title: "⚠️ Avertissements"
 sidebar_position: 1
 ---
-<img src="/img/illustration-avertissements.png" alt="Avertissements pour Mowgli OpenMower" class="img-small" />
+
+<img src="@site/static/img/illustration-avertissements.png" alt="Avertissements pour Mowgli OpenMower" class="img-small" />
 
 # ⚠️ Avertissements
 
 Bienvenue dans ce guide dédié à la transformation de votre robot tondeuse **Yardforce 500 ou 500B** en robot autonome grâce au projet **OpenMower + Mowgli**.
+
+<div class="alert alert--success">
+  <div class="alert-title">🔗 Ressources recommandées</div>
+  <p>
+    Avant de commencer, il est essentiel de bien comprendre les avertissements et les prérequis nécessaires. Pour bien comprendre et réussir à suivre ce guide, il est important de visiter les ressources suivantes :
+  </p>
+  <ul>
+    <li><a href="https://openmower.de/docs/robot-assembly/prepare-the-parts/prepare-the-robot/photo-guide/" target="_blank">Page d'accueil d'OpenMower</a></li>
+    <li><a href="https://github.com/cedbossneo/Mowgli" target="_blank">Fork Mowgli</a></li>
+    <li><a href="https://github.com/CedBossNeo/mowgli-docker" target="_blank">Mowgli Docker</a></li>
+    <li><a href="https://t.me/+x6U3UwU5lB4yOWNk" target="_blank">Groupe d'entraide Telegram français du fork Mowgli</a></li>
+  </ul>
+  <p>Ces liens vous fourniront des informations cruciales qui vous aideront à mieux comprendre les étapes et les concepts abordés dans ce guide.</p>
+</div>
 
 ---
 
@@ -33,22 +48,21 @@ Il peut être partiellement compatible avec d’autres modèles utilisant ces ca
 
 ---
 
-## ⚠️ Fonctionnalités modifié
+## ⚠️ Fonctionnalités limitées
 
-Les fonctions (boutons et voyants du capot) vont être completement modifié( elles ne correspondront plus au panneau d'origine) a part :
+Certaines fonctions (boutons et voyants du capot) peuvent être partiellement désactivées :
 
 ### Yardforce 500 :
 - ✅ Voyant levage
 - ✅ Voyant batterie faible
 - ✅ Voyant de charge
 
+> Ces éléments fonctionnent sans modification du firmware.
+
 ### Yardforce 500B :
 - ✅ **Avec le firmware de Nekraus (25/04/2025)** :
-- ✅ Voyant levage
-- ✅ Voyant batterie faible
-- ✅ Voyant de charge
-
-Vous pourrez trouver la sérigraphie Mowgli a imprimer et une version stl sur cette page : 👉 [📝 sérigraphie Mowgli ](../serigraphie-Mowgli)
+- ✅ Clavier pleinement fonctionnel
+- ✅ Voyants fonctionnels
 
 ⚠️ D’autres firmwares peuvent ne pas gérer ces éléments correctement.
 
@@ -72,6 +86,4 @@ Vous acceptez en suivant ce guide :
 
 Ce guide est **en constante évolution**. Pensez à consulter régulièrement la page :
 
-👉 [📝 Mises à jour du guide](../mise-a-jour-guide)
-
----
+👉 [📝 Mises à jour du guide](/docs/Guide-OpenMower-Mowgli/mise-a-jour-guide)

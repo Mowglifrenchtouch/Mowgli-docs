@@ -52,7 +52,7 @@ Ce projet repose sur l’utilisation de la carte mère **d’origine** des modè
 
 ---
 
-<h2 id="impressions-3d">🖨️ Pièces imprimées en 3D personnalisées</h2>
+<h2 id="impressions-3d.md">🖨️ Pièces imprimées en 3D personnalisées</h2>
 
 Des pièces **sur mesure** (support RPi, support F9P, roues lestables, gyrophare, etc.) ont été **spécialement conçues** pour ce projet.
 
@@ -61,17 +61,17 @@ Elles sont disponibles **gratuitement** sur mon profil MakerWorld :
 👉 [Profil MakerWorld Juditech3D](https://makerworld.com/en/@juditech3d)
 
 Pour plus de détails sur les fichiers et impressions recommandées :  
-📦 [Voir la section Impressions 3D](/docs/Guide-OpenMower-Mowgli/impressions-3d/)
+📦 [Voir la section Impressions 3D](/docs/Guide-OpenMower-Mowgli/impression-3d/)
 
 ---
 
-<h2 id="schema-cablage">🖼️ Schéma de câblage</h2>
+<h2 id="schema-de-cablage.md">🖼️ Schéma de câblage</h2>
 
 Voici un aperçu du câblage complet du robot Mowgli, réalisé sur la base du schéma de <a href="https://github.com/cedbossneo/mowgli-docker" target="_blank">cedbossneo</a>, que j’ai **adapté pour plus de clarté** :
 
 ![Schéma de câblage Mowgli](/img/yardforce_wiring2.drawio.png)
 
-> ✅ Ce schéma est également modifiable au format `.drawio` dans la page dédiée : [Voir le schéma interactif](/schema/)
+> ✅ Ce schéma est également modifiable au format `.drawio` dans la page dédiée : [Voir le schéma interactif](./schema-de-cablage.md)
 
 ---
 

@@ -131,4 +131,4 @@ Par défaut, le mot de passe est `raspberry`.
 
 ---
 
-✅ Une fois connecté, passez à la configuration logicielle du système.
+✅ Une fois connecté, passez à l'installation et la configuration logicielle du système.
