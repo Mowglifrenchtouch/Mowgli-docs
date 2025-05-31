@@ -34,6 +34,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          # Très important pour un site sous org avec baseUrl personnalisé
-          destination_dir: Mowgli-docs
+          publish_dir: ./build/mowgli-docs
