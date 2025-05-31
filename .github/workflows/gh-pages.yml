@@ -36,4 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           # Très important pour un site sous org avec baseUrl personnalisé
-          destination_dir: mowgli-docs
+          destination_dir: Mowgli-docs
