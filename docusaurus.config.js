@@ -6,7 +6,7 @@ const config = {
   title: 'Mowgli Docs',
   tagline: 'Documentation pour Mowgli-OpenMower sur robots Yardforce 500,500B',
   url: 'https://mowglifrenchtouch.github.io',
-  baseUrl: '/Mowgli-docs/',
+  baseUrl: '/mowgli-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,7 +25,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Mowglifrenchtouch/Mowgli-docs/edit/main/',
+          editUrl: 'https://github.com/Mowglifrenchtouch/mowgli-docs/edit/main/',
         },
         blog: false,
         theme: {
@@ -48,7 +48,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Mowglifrenchtouch/Mowgli-docs',
+          href: 'https://github.com/Mowglifrenchtouch/mowgli-docs',
           label: 'GitHub',
           position: 'right',
         },
