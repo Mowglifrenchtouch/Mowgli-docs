@@ -2,8 +2,7 @@
 title: "⚠️ Avertissements"
 sidebar_position: 1
 ---
-
-<img src="@site/static/img/illustration-avertissements.png" alt="Avertissements pour Mowgli OpenMower" class="img-small" />
+![Illustration avertissement](/img/illustration-avertissements.png)
 
 # ⚠️ Avertissements
 

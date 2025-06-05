@@ -5,10 +5,9 @@ parent: "🏠 Guide OpenMower"
 layout: default
 permalink: /docs/Guide-OpenMower-Mowgli/materiel-requis/
 ---
+![Illustration matériel requis](/img/illustration-materiel.png)
 
 # 🧰 Matériel requis
-
-![Illustration matériel requis](/img/illustration-materiel.png)
 
 Ce projet repose sur l’utilisation de la carte mère **d’origine** des modèles **Yardforce 500 / 500B**, sans modification matérielle profonde de celle-ci. Voici le matériel que j’ai personnellement utilisé, testé et validé pour réaliser mon robot tondeuse autonome.
 
