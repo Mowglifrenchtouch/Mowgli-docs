@@ -6,18 +6,17 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-
+      description="Description will go into a meta tag in <head />"
+    >
       <main
         className="hero hero--primary"
         style={{
-          backgroundImage: "url('/img/bandeau-mowgli.png')",
+          backgroundImage: `url(${useBaseUrl('/img/bandeau-mowgli.png')})`,
           backgroundSize: 'cover',
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'center',
@@ -30,10 +29,13 @@ export default function Home() {
           alignItems: 'center',
           justifyContent: 'center',
           padding: '2rem 0',
-        }}>
+        }}
+      >
         <div className="container text--center">
           <h1 className="hero__title">🤖 Mowgli Docs</h1>
-          <p className="hero__subtitle">Tuto complet pour robotiser votre tondeuse Yardforce 500 / 500B avec OpenMower + Mowgli</p>
+          <p className="hero__subtitle">
+            Tuto complet pour robotiser votre tondeuse Yardforce 500 / 500B avec OpenMower + Mowgli
+          </p>
           <div className="buttons" style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '1rem' }}>
             <Link className="button button--info button--lg" to="/docs/Guide-OpenMower-Mowgli/Avertissements/">
               📘 Démarrer le guide
@@ -52,17 +54,17 @@ export default function Home() {
         <div className="container">
           <div className="row">
             <div className="col col--4 text--center">
-              <img src="/img/robot-gps-v2.png" alt="Robot GPS" style={{ height: '160px', marginBottom: '1rem', borderRadius: '50%' }} />
+              <img src={useBaseUrl('/img/robot-gps-v2.png')} alt="Robot GPS" style={{ height: '160px', marginBottom: '1rem', borderRadius: '50%' }} />
               <h3>⚙️ Modifiez votre robot</h3>
               <p>Ajoutez un GPS RTK, contrôlez les moteurs, configurez le firmware Mowgli et transformez votre Yardforce en robot autonome.</p>
             </div>
             <div className="col col--4 text--center">
-              <img src="/img/step-by-step-v2.png" alt="Tutoriel pas à pas" style={{ height: '160px', marginBottom: '1rem', borderRadius: '50%' }} />
+              <img src={useBaseUrl('/img/step-by-step-v2.png')} alt="Tutoriel pas à pas" style={{ height: '160px', marginBottom: '1rem', borderRadius: '50%' }} />
               <h3>🧠 Tutoriels pas-à-pas</h3>
               <p>Chaque étape est expliquée en détail, depuis l’ouverture du robot jusqu’à la première tonte.</p>
             </div>
             <div className="col col--4 text--center">
-              <img src="/img/interface-web-v2.png" alt="Interface Web" style={{ height: '160px', marginBottom: '1rem', borderRadius: '50%' }} />
+              <img src={useBaseUrl('/img/interface-web-v2.png')} alt="Interface Web" style={{ height: '160px', marginBottom: '1rem', borderRadius: '50%' }} />
               <h3>🌐 Interface Web & Mobile</h3>
               <p>Utilisez l’interface Web personnalisée pour contrôler, diagnostiquer et configurer votre robot tondeuse Mowgli.</p>
             </div>
