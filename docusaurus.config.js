@@ -11,7 +11,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Mowglifrenchtouch', // GitHub org name
-  projectName: 'Mowgli-docs', // GitHub repo name
+  projectName: 'mowgli-docs', // GitHub repo name
 
   i18n: {
     defaultLocale: 'fr',
