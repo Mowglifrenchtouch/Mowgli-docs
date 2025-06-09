@@ -4,7 +4,7 @@ nav_order: 98
 permalink: /docs/Guide-OpenMower-Mowgli/a-propos
 ---
 
-![À propos du projet Mowgli](/img/a-propos-illustration.png)
+![À propos du projet Mowgli](img/a-propos-illustration.png)
 
 # 👤 À propos du projet Mowgli
 

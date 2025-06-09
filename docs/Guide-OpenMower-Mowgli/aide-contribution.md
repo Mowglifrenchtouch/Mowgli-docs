@@ -8,7 +8,7 @@ parent: "🏠 Guide OpenMower"
 
 # 🤝 Aide à la contribution
 
-![Illustration aide contribution](/img/contribution-guide.png)
+![Illustration aide contribution](img/contribution-guide.png)
 
 Merci de votre intérêt pour l'amélioration de ce guide ! Que vous soyez utilisateur, développeur ou simple curieux, chaque contribution est la bienvenue 💡
 

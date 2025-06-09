@@ -5,7 +5,7 @@ parent: "🏠 Guide OpenMower"
 layout: default
 permalink: /docs/Guide-OpenMower-Mowgli/configuration-systeme/
 ---
-![Illustration configuration-systeme](/img/configuration-systeme.png)
+![Illustration configuration-systeme](img/configuration-systeme.png)
 
 <div class="alert alert--warning">
   <div class="alert-title">⚠️ Important</div>

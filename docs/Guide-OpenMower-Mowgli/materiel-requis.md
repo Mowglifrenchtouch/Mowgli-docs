@@ -5,7 +5,7 @@ parent: "🏠 Guide OpenMower"
 layout: default
 permalink: /docs/Guide-OpenMower-Mowgli/materiel-requis/
 ---
-![Illustration matériel requis](/img/illustration-materiel.png)
+![Illustration matériel requis](img/illustration-materiel.png)
 
 # 🧰 Matériel requis
 
@@ -70,7 +70,7 @@ Elles sont disponibles **gratuitement** sur mon profil MakerWorld :
 
 Voici un aperçu du câblage complet du robot Mowgli, réalisé sur la base du schéma de <a href="https://github.com/cedbossneo/mowgli-docker" target="_blank">cedbossneo</a>, que j’ai **adapté pour plus de clarté** :
 
-![Schéma de câblage Mowgli](/img/yardforce_wiring2.drawio.png)
+![Schéma de câblage Mowgli](img/yardforce_wiring2.drawio.png)
 
 > ✅ Ce schéma est également modifiable au format `.drawio` dans la page dédiée : [Voir le schéma interactif](/docs/Guide-OpenMower-Mowgli/schema-de-cablage/)
 

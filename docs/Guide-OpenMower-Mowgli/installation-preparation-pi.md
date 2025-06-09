@@ -5,7 +5,7 @@ parent: "🏠 Guide OpenMower"
 layout: default
 permalink: /docs/Guide-OpenMower-Mowgli/installation-preparation-pi/
 ---
-![Illustration installation et préparation](/img/illustration-installation.png)
+![Illustration installation et préparation](img/illustration-installation.png)
 
 # 💾 Installation et Préparation du Raspberry Pi
 
