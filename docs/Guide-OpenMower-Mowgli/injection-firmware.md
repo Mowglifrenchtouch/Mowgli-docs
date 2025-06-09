@@ -6,7 +6,7 @@ parent: "🏠 Guide OpenMower"
 layout: default
 ---
 <div style={{textAlign:"center"}}>
-  <img src="/img/injection_firmware_cover.png" alt="Illustration firmware" style={{maxWidth:"200px", margin:"1rem auto", borderRadius:"10px", boxShadow:"0 2px 6px rgba(0,0,0,0.2)"}} />
+  <img src="img/injection_firmware_cover.png" alt="Illustration firmware" style={{maxWidth:"200px", margin:"1rem auto", borderRadius:"10px", boxShadow:"0 2px 6px rgba(0,0,0,0.2)"}} />
 </div>
 
 
@@ -25,7 +25,7 @@ Avant toute modification, sauvegardez votre firmware actuel avec un **STLINK** (
 **Branchement STLINK** :
 
 <div style={{textAlign:"center"}}>
-  <img src="/img/branchement_stlink.jpg" alt="Schéma de connexion STLINK" style={{maxWidth:"300px", margin:"auto"}} />
+  <img src="img/branchement_stlink.jpg" alt="Schéma de connexion STLINK" style={{maxWidth:"300px", margin:"auto"}} />
 </div>
 
 <div class="alert-blue">
