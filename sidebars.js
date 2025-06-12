@@ -1,33 +1,29 @@
-// @ts-check
-
-/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
-const sidebars = {
-  tutorialSidebar: [
+module.exports = {
+  docs: [
     {
       type: 'category',
-      label: 'Guide-OpenMower-Mowgli',
-      link: {
-        type: 'generated-index',
-        title: 'Guide OpenMower Mowgli',
-        slug: '/docs/Guide-OpenMower-Mowgli/',
-      },
-      items: [
-        'Guide-OpenMower-Mowgli/Avertissements/index',
-        'Guide-OpenMower-Mowgli/materiel-requis',
-        'Guide-OpenMower-Mowgli/installation-preparation-pi',
-        'Guide-OpenMower-Mowgli/configuration-systeme',
-        'Guide-OpenMower-Mowgli/injection-firmware',
-        'Guide-OpenMower-Mowgli/configuration-openmower',
-        'Guide-OpenMower-Mowgli/schema-de-cablage',
-        'Guide-OpenMower-Mowgli/mise-a-jour-guide',
-        'Guide-OpenMower-Mowgli/impression-3d',
-        'Guide-OpenMower-Mowgli/serigraphie-Mowgli',
-        'Guide-OpenMower-Mowgli/probleme-solution',
-        'Guide-OpenMower-Mowgli/a-propos',
-        'Guide-OpenMower-Mowgli/aide-contribution',
-      ],
+      label: '📦 Hardware',
+      items: ['01_hardware'],
+    },
+    {
+      type: 'category',
+      label: '🧠 Firmware',
+      items: ['02_firmware'],
+    },
+    {
+      type: 'category',
+      label: '💻 Web UI',
+      items: ['03_webui'],
+    },
+    {
+      type: 'category',
+      label: '🤝 Contribuer',
+      items: ['04_contribuer'],
+    },
+    {
+      type: 'category',
+      label: '❓ FAQ',
+      items: ['05_faq'],
     },
   ],
 };
-
-export default sidebars;
